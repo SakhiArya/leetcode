@@ -1,0 +1,9 @@
+/.metadata/
+
+*.DS_Store
+*.project
+leetcode/target/
+leetcode/.settings
+leetcode/.project
+leetcode/.classpath
+
