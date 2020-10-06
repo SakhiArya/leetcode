@@ -6,6 +6,14 @@
 3a- if [middle] < target < [right] then do recursion with middle + 1 (left), right
 3b- right side is sorted, but target not in here, search on left side left, middle -1 (right)
 
+
+own language explanation:
+
+at any pivot the array is divided in to 1 would be sorted and another unsorted 
+figure out which side is sorted and check if the target is in the sorted array 
+amend the start and end (left right accordingly)
+
+
 */
 
 package com.binarysearch.template1;
