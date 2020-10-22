@@ -7,3 +7,10 @@ leetcode/.settings
 leetcode/.project
 leetcode/.classpath
 
+leetcode/binarysearch/target
+
+leetcode/binarytree/.settings/
+leetcode/binarytree/.settings
+leetcode/binarytree/.classpath
+leetcode/binarysearch/.settings
+leetcode/binarytree/target/
