@@ -3,14 +3,14 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>com.leetocde</groupId>
+    <groupId>com.leetcode</groupId>
     <artifactId>leetcode</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.leetocde.binary.search</groupId>
-  <artifactId>binarysearch</artifactId>
+  <groupId>com.leetcode</groupId>
+  <artifactId>binarytree</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>binarysearch</name>
+  <name>binarytree</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
